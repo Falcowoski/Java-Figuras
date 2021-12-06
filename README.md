@@ -14,8 +14,8 @@ diagrama de classe.
 
 Para esta atividade, você deve:
 
-- Implementar as classes solicitadas no projeto;
-- Testar a implementação.
+- Implementar as classes solicitadas no projeto
+- Testar a implementação
 
 ## Projeto
 
